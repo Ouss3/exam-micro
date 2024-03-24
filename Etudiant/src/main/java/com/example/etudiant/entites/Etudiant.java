@@ -4,13 +4,12 @@ import jakarta.persistence.*;
 import lombok.*;
 
 @Entity
+@Table(name = "etudiant")
 @Data@AllArgsConstructor@NoArgsConstructor@ToString@Builder
 public class Etudiant {
-    @Id@GeneratedValue(strategy = GenerationType.IDENTITY)
-    public Integer idEtudiant;
-    public String nom;
-    public String prenom;
+    @Id
     public String email;
-    @Enumerated(EnumType.STRING)
-    public Filiere filiere;
+    public String token;
+    public String password;
+
 }

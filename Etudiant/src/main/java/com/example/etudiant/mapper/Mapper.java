@@ -12,10 +12,10 @@ public class Mapper implements MapperInterface {
     @Override
     public Etudiant RequestToEtudiant(RequestDTO requestDTO) {
         Etudiant etudiant = new Etudiant();
-        etudiant.setNom(requestDTO.getNom());
-        etudiant.setPrenom(requestDTO.getPrenom());
+
         etudiant.setEmail(requestDTO.getEmail());
-        etudiant.setFiliere(requestDTO.getFiliere());
+        etudiant.setToken(requestDTO.getToken());
+        etudiant.setPassword(requestDTO.getPassword());
         return etudiant;
     }
 
