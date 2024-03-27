@@ -11,5 +11,7 @@ public class Etudiant {
     public String email;
     public String token;
     public String password;
+    public boolean haveform;
+    public String formcode;
 
 }

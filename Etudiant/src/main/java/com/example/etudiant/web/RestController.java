@@ -30,6 +30,17 @@ public class RestController {
         return etudientRepository.findById(id).orElseThrow();
     }
 
+   @PutMapping("/etudiant/{id}")
+    public Etudiant updateEtudiant(@PathVariable String id, @RequestBody Etudiant etudiant){
+        Etudiant etudiant1 = etudientRepository.findById(id).orElseThrow();
+
+        etudiant1.setHaveform(etudiant.isHaveform());
+
+        return etudientRepository.save(etudiant1);
+    }
+
+
+
 
 //    @GetMapping("/etudiants")
 //    public List<ReponseDTO> getAllEtudiants(){
