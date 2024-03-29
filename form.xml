@@ -1,306 +1,345 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<formSubmit>
+<formSubmit>z
     <form>
-        <firstAuthor apogeCode="dsfsd" sex="Femme" registrationYear="2021">
-            <firstname>OUSSAMA</firstname>
-            <lastName>OUKHAYI</lastName>
-            <birth>dsfdsd</birth>
+        <firstAuthor apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Name</firstname>
+            <lastName>name 2</lastName>
+            <birth>1990-01-01</birth>
         </firstAuthor>
-        <authors apogeCode="dfsdf" sex="Homme" registrationYear="2024">
-            <firstname>OUSSAMA</firstname>
-            <lastName>OUKHAYI</lastName>
-            <birth>d34</birth>
+        <authors apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
         </authors>
-        <title>dsdf</title>
-        <abstracts>ddsd</abstracts>
-        <keywords>dsds</keywords>
-        <disciplines>info</disciplines>
-        <speciality>fdsfd</speciality>
-        <theme>theme1</theme>
-        <institution>FS</institution>
-        <structure></structure>
-        <phone>0615285190</phone>
-        <address>SALE</address>
-        <ville>TINGHIR</ville>
-        <supervisor>
-            <svfname>OUSSAMA</svfname>
-            <svlname>OUKHAYI</svlname>
-            <svmail>sdfa</svmail>
-            <svinst>dfsd</svinst>
-        </supervisor>
-        <cosupervisor>
-            <cosvfname>OUSSAMA</cosvfname>
-            <cosvlname>OUKHAYI</cosvlname>
-            <cosvmail>sdafa</cosvmail>
-            <cosvinst>dsfsf</cosvinst>
-        </cosupervisor>
-    </form>
-    <form>
-        <firstAuthor apogeCode="dsfd" sex="Homme" registrationYear="2024">
-            <firstname>OUSSAMA</firstname>
-            <lastName>OUKHAYI</lastName>
-            <birth>sdfsdfdsf</birth>
-        </firstAuthor>
-        <authors apogeCode="fdsfd" sex="Homme" registrationYear="2024">
-            <firstname>OUSSAMA</firstname>
-            <lastName>OUKHAYI</lastName>
-            <birth>sdf</birth>
-        </authors>
-        <title>3r2</title>
-        <abstracts>ewrewfde</abstracts>
-        <keywords>sdffds</keywords>
-        <disciplines>info</disciplines>
-        <speciality>dfsf</speciality>
-        <theme>theme1</theme>
-        <institution>FS</institution>
-        <structure></structure>
-        <phone>0615285190</phone>
-        <address>SALE</address>
-        <ville>TINGHIR</ville>
-        <supervisor>
-            <svfname>OUSSAMA</svfname>
-            <svlname>OUKHAYI</svlname>
-            <svmail>dsfsd</svmail>
-            <svinst>sdfds</svinst>
-        </supervisor>
-        <cosupervisor>
-            <cosvfname>OUSSAMA</cosvfname>
-            <cosvlname>OUKHAYI</cosvlname>
-            <cosvmail>hgnbnbgh</cosvmail>
-            <cosvinst>dsfsf</cosvinst>
-        </cosupervisor>
-    </form>
-    <form>
-        <firstAuthor apogeCode="m23223" sex="Femme" registrationYear="2019">
-            <firstname>naima</firstname>
-            <lastName>mechout </lastName>
-            <birth>2004-08-24</birth>
-        </firstAuthor>
-        <authors apogeCode="bbnnbnb" sex="Homme" registrationYear="2019">
-            <firstname>OUSSAMA</firstname>
-            <lastName>OUKHAYI</lastName>
-            <birth>2004-09-24</birth>
-        </authors>
-        <title>ewerweeewr</title>
-        <abstracts>ewrrerw</abstracts>
-        <keywords>we</keywords>
-        <disciplines>info</disciplines>
-        <speciality>gfgf</speciality>
-        <theme>theme1</theme>
-        <institution>FST</institution>
-        <structure></structure>
-        <phone>0615285190</phone>
-        <address>SALE</address>
-        <ville>TINGHIR</ville>
-        <supervisor>
-            <svfname>OUSSAMA</svfname>
-            <svlname>OUKHAYI</svlname>
-            <svmail>ds</svmail>
-            <svinst>dsfsfsdfsdfs</svinst>
-        </supervisor>
-        <cosupervisor>
-            <cosvfname>OUSSAMA</cosvfname>
-            <cosvlname>OUKHAYI</cosvlname>
-            <cosvmail>hgnbnbgh</cosvmail>
-            <cosvinst>dfd</cosvinst>
-        </cosupervisor>
-    </form>
-    <form>
-        <firstAuthor apogeCode="m23223" sex="Femme" registrationYear="2019">
-            <firstname>naima</firstname>
-            <lastName>mechout </lastName>
-            <birth>2004-08-24</birth>
-        </firstAuthor>
-        <authors apogeCode="bbnnbnb" sex="Homme" registrationYear="2019">
-            <firstname>OUSSAMA</firstname>
-            <lastName>OUKHAYI</lastName>
-            <birth>2004-09-24</birth>
-        </authors>
-        <title>ewerweeewr</title>
-        <abstracts>ewrrerw</abstracts>
-        <keywords>we</keywords>
-        <disciplines>info</disciplines>
-        <speciality>gfgf</speciality>
-        <theme>theme1</theme>
-        <institution>FST</institution>
-        <structure></structure>
-        <phone>0615285190</phone>
-        <address>SALE</address>
-        <ville>TINGHIR</ville>
-        <supervisor>
-            <svfname>OUSSAMA</svfname>
-            <svlname>OUKHAYI</svlname>
-            <svmail>ds</svmail>
-            <svinst>dsfsfsdfsdfs</svinst>
-        </supervisor>
-        <cosupervisor>
-            <cosvfname>OUSSAMA</cosvfname>
-            <cosvlname>OUKHAYI</cosvlname>
-            <cosvmail>hgnbnbgh</cosvmail>
-            <cosvinst>dfd</cosvinst>
-        </cosupervisor>
-    </form>
-    <form>
-        <firstAuthor apogeCode="m23223" sex="Femme" registrationYear="2019">
-            <firstname>naima</firstname>
-            <lastName>mechout </lastName>
-            <birth>2004-08-24</birth>
-        </firstAuthor>
-        <authors apogeCode="bbnnbnb" sex="Homme" registrationYear="2019">
-            <firstname>OUSSAMA</firstname>
-            <lastName>OUKHAYI</lastName>
-            <birth>2004-09-24</birth>
-        </authors>
-        <title>ewerweeewr</title>
-        <abstracts>ewrrerw</abstracts>
-        <keywords>we</keywords>
-        <disciplines>info</disciplines>
-        <speciality>gfgf</speciality>
-        <theme>theme1</theme>
-        <institution>FST</institution>
-        <structure></structure>
-        <phone>0615285190</phone>
-        <address>SALE</address>
-        <ville>TINGHIR</ville>
-        <supervisor>
-            <svfname>OUSSAMA</svfname>
-            <svlname>OUKHAYI</svlname>
-            <svmail>ds</svmail>
-            <svinst>dsfsfsdfsdfs</svinst>
-        </supervisor>
-        <cosupervisor>
-            <cosvfname>OUSSAMA</cosvfname>
-            <cosvlname>OUKHAYI</cosvlname>
-            <cosvmail>hgnbnbgh</cosvmail>
-            <cosvinst>dfd</cosvinst>
-        </cosupervisor>
-    </form>
-    <form>
-        <firstAuthor apogeCode="fdsfsdf" sex="Homme" registrationYear="2024">
-            <firstname>OUSSAMA</firstname>
-            <lastName>OUKHAYI</lastName>
-            <birth>fds</birth>
-        </firstAuthor>
-        <title>dsfd</title>
-        <abstracts>dfsf</abstracts>
-        <keywords>sdfsd</keywords>
-        <disciplines>info</disciplines>
-        <speciality>dfdsf</speciality>
-        <theme>theme1</theme>
-        <institution>FS</institution>
-        <structure type="LFI">
-        </structure>
-        <mails/>
-        <phone>0615285190</phone>
-        <address>SALE</address>
-        <ville>TINGHIR</ville>
-        <supervisor>
-            <svfname>dfs</svfname>
-            <svlname>sdfsdfd</svlname>
-            <svmail>dfsfdsf</svmail>
-            <svinst>dfsfsdfds</svinst>
-        </supervisor>
-        <cosupervisor>
-            <cosvfname>OUSSAMA</cosvfname>
-            <cosvlname>OUKHAYI</cosvlname>
-            <cosvmail>s</cosvmail>
-            <cosvinst>s</cosvinst>
-        </cosupervisor>
-    </form>
-    <form>
-        <firstAuthor apogeCode="fdsfsdf" sex="Homme" registrationYear="2024">
-            <firstname>OUSSAMA</firstname>
-            <lastName>OUKHAYI</lastName>
-            <birth>fds</birth>
-        </firstAuthor>
-        <title>dsfd</title>
-        <abstracts>dfsf</abstracts>
-        <keywords>sdfsd</keywords>
-        <disciplines>info</disciplines>
-        <speciality>dfdsf</speciality>
-        <theme>theme1</theme>
-        <institution>FS</institution>
-        <structure type="LFI">dsffsdf</structure>
-        <mails/>
-        <phone>0615285190</phone>
-        <address>SALE</address>
-        <ville>TINGHIR</ville>
-        <supervisor>
-            <svfname>dfs</svfname>
-            <svlname>sdfsdfd</svlname>
-            <svmail>dfsfdsf</svmail>
-            <svinst>dfsfsdfds</svinst>
-        </supervisor>
-        <cosupervisor>
-            <cosvfname>OUSSAMA</cosvfname>
-            <cosvlname>OUKHAYI</cosvlname>
-            <cosvmail>s</cosvmail>
-            <cosvinst>s</cosvinst>
-        </cosupervisor>
-    </form>
-    <form>
-        <firstAuthor apogeCode="" sex="Homme" registrationYear="2024">
-            <firstname>OUSSAMA</firstname>
-            <lastName>OUKHAYI</lastName>
-            <birth></birth>
-        </firstAuthor>
-        <title>dgfgd</title>
-        <abstracts>efdfdg</abstracts>
-        <keywords></keywords>
-        <disciplines>info</disciplines>
-        <speciality></speciality>
-        <theme>theme1</theme>
-        <institution>FS</institution>
-        <structure type="LFI"></structure>
-        <mails/>
-        <phone>0615285190</phone>
-        <address>SALE</address>
-        <ville>TINGHIR</ville>
-        <supervisor>
-            <svfname></svfname>
-            <svlname></svlname>
-            <svmail></svmail>
-            <svinst></svinst>
-        </supervisor>
-        <cosupervisor>
-            <cosvfname></cosvfname>
-            <cosvlname></cosvlname>
-            <cosvmail></cosvmail>
-            <cosvinst></cosvinst>
-        </cosupervisor>
-    </form>
-    <form>
-        <firstAuthor apogeCode="" sex="Homme" registrationYear="2024">
-            <firstname>OUSSAMA</firstname>
-            <lastName>OUKHAYI</lastName>
-            <birth></birth>
-        </firstAuthor>
-        <title>dgfgd</title>
-        <abstracts>efdfdg</abstracts>
-        <keywords></keywords>
-        <disciplines>info</disciplines>
-        <speciality></speciality>
-        <theme>theme1</theme>
-        <institution>FS</institution>
-        <structure type="LFI"></structure>
+        <title>Sample Title</title>
+        <abstracts>Sample Abstract</abstracts>
+        <keywords>Sample Keywords</keywords>
+        <disciplines>Sample Disciplines</disciplines>
+        <speciality>Sample Speciality</speciality>
+        <theme>Theme 2</theme>
+        <institution>Sample Institution</institution>
+        <structure type="Sample Structure Type">Sample Structure Value</structure>
         <mails>
-            <mail type="institutionnel">user1@um5.ac.ma</mail>
-            <mail type="institutionnel">fdgdfgfdgf</mail>
+            <mail type="Sample Mail Type">sample@mail.com</mail>
         </mails>
-        <phone>0615285190</phone>
-        <address>SALE</address>
-        <ville>TINGHIR</ville>
+        <phone>1234567890</phone>
+        <address>Sample Address</address>
+        <ville>Sample City</ville>
         <supervisor>
-            <svfname></svfname>
-            <svlname></svlname>
-            <svmail></svmail>
-            <svinst></svinst>
+            <svfname>Supervisor First Name</svfname>
+            <svlname>Supervisor Last Name</svlname>
+            <svmail>supervisor@mail.com</svmail>
+            <svinst>Supervisor Institution</svinst>
         </supervisor>
         <cosupervisor>
-            <cosvfname></cosvfname>
-            <cosvlname></cosvlname>
-            <cosvmail></cosvmail>
-            <cosvinst></cosvinst>
+            <cosvfname>Co-Supervisor First Name</cosvfname>
+            <cosvlname>Co-Supervisor Last Name</cosvlname>
+            <cosvmail>cosupervisor@mail.com</cosvmail>
+            <cosvinst>Co-Supervisor Institution</cosvinst>
+        </cosupervisor>
+    </form>
+    <form>
+        <firstAuthor apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </firstAuthor>
+        <authors apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </authors>
+        <title>Sample Title</title>
+        <abstracts>Sample Abstract</abstracts>
+        <keywords>Sample Keywords</keywords>
+        <disciplines>Sample Disciplines</disciplines>
+        <speciality>Sample Speciality</speciality>
+        <theme>Theme 3</theme>
+        <institution>Sample Institution</institution>
+        <structure type="Sample Structure Type">Sample Structure Value</structure>
+        <mails>
+            <mail type="Sample Mail Type">sample@mail.com</mail>
+        </mails>
+        <phone>1234567890</phone>
+        <address>Sample Address</address>
+        <ville>Sample City</ville>
+        <supervisor>
+            <svfname>Supervisor First Name</svfname>
+            <svlname>Supervisor Last Name</svlname>
+            <svmail>supervisor@mail.com</svmail>
+            <svinst>Supervisor Institution</svinst>
+        </supervisor>
+        <cosupervisor>
+            <cosvfname>Co-Supervisor First Name</cosvfname>
+            <cosvlname>Co-Supervisor Last Name</cosvlname>
+            <cosvmail>cosupervisor@mail.com</cosvmail>
+            <cosvinst>Co-Supervisor Institution</cosvinst>
+        </cosupervisor>
+    </form>
+    <form>
+        <firstAuthor apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </firstAuthor>
+        <authors apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </authors>
+        <title>Sample Title</title>
+        <abstracts>Sample Abstract</abstracts>
+        <keywords>Sample Keywords</keywords>
+        <disciplines>Sample Disciplines</disciplines>
+        <speciality>Sample Speciality</speciality>
+        <theme>Theme 4</theme>
+        <institution>Sample Institution</institution>
+        <structure type="Sample Structure Type">Sample Structure Value</structure>
+        <mails>
+            <mail type="Sample Mail Type">sample@mail.com</mail>
+        </mails>
+        <phone>1234567890</phone>
+        <address>Sample Address</address>
+        <ville>Sample City</ville>
+        <supervisor>
+            <svfname>Supervisor First Name</svfname>
+            <svlname>Supervisor Last Name</svlname>
+            <svmail>supervisor@mail.com</svmail>
+            <svinst>Supervisor Institution</svinst>
+        </supervisor>
+        <cosupervisor>
+            <cosvfname>Co-Supervisor First Name</cosvfname>
+            <cosvlname>Co-Supervisor Last Name</cosvlname>
+            <cosvmail>cosupervisor@mail.com</cosvmail>
+            <cosvinst>Co-Supervisor Institution</cosvinst>
+        </cosupervisor>
+    </form>
+    <form>
+        <firstAuthor apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </firstAuthor>
+        <authors apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </authors>
+        <title>Sample Title</title>
+        <abstracts>Sample Abstract</abstracts>
+        <keywords>Sample Keywords</keywords>
+        <disciplines>Sample Disciplines</disciplines>
+        <speciality>Sample Speciality</speciality>
+        <theme>Theme 5</theme>
+        <institution>Sample Institution</institution>
+        <structure type="Sample Structure Type">Sample Structure Value</structure>
+        <mails>
+            <mail type="Sample Mail Type">sample@mail.com</mail>
+        </mails>
+        <phone>1234567890</phone>
+        <address>Sample Address</address>
+        <ville>Sample City</ville>
+        <supervisor>
+            <svfname>Supervisor First Name</svfname>
+            <svlname>Supervisor Last Name</svlname>
+            <svmail>supervisor@mail.com</svmail>
+            <svinst>Supervisor Institution</svinst>
+        </supervisor>
+        <cosupervisor>
+            <cosvfname>Co-Supervisor First Name</cosvfname>
+            <cosvlname>Co-Supervisor Last Name</cosvlname>
+            <cosvmail>cosupervisor@mail.com</cosvmail>
+            <cosvinst>Co-Supervisor Institution</cosvinst>
+        </cosupervisor>
+    </form>
+    <form>
+        <firstAuthor apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </firstAuthor>
+        <authors apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </authors>
+        <title>Sample Title</title>
+        <abstracts>Sample Abstract</abstracts>
+        <keywords>Sample Keywords</keywords>
+        <disciplines>Sample Disciplines</disciplines>
+        <speciality>Sample Speciality</speciality>
+        <theme>Theme 5</theme>
+        <institution>Sample Institution</institution>
+        <structure type="Sample Structure Type">Sample Structure Value</structure>
+        <mails>
+            <mail type="Sample Mail Type">sample@mail.com</mail>
+        </mails>
+        <phone>1234567890</phone>
+        <address>Sample Address</address>
+        <ville>Sample City</ville>
+        <supervisor>
+            <svfname>Supervisor First Name</svfname>
+            <svlname>Supervisor Last Name</svlname>
+            <svmail>supervisor@mail.com</svmail>
+            <svinst>Supervisor Institution</svinst>
+        </supervisor>
+        <cosupervisor>
+            <cosvfname>Co-Supervisor First Name</cosvfname>
+            <cosvlname>Co-Supervisor Last Name</cosvlname>
+            <cosvmail>cosupervisor@mail.com</cosvmail>
+            <cosvinst>Co-Supervisor Institution</cosvinst>
+        </cosupervisor>
+    </form>
+    <form>
+        <firstAuthor apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </firstAuthor>
+        <authors apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </authors>
+        <title>Sample Title</title>
+        <abstracts>Sample Abstract</abstracts>
+        <keywords>Sample Keywords</keywords>
+        <disciplines>Sample Disciplines</disciplines>
+        <speciality>Sample Speciality</speciality>
+        <theme>Theme 2</theme>
+        <institution>Sample Institution</institution>
+        <structure type="Sample Structure Type">Sample Structure Value</structure>
+        <mails>
+            <mail type="Sample Mail Type">sample@mail.com</mail>
+        </mails>
+        <phone>1234567890</phone>
+        <address>Sample Address</address>
+        <ville>Sample City</ville>
+        <supervisor>
+            <svfname>Supervisor First Name</svfname>
+            <svlname>Supervisor Last Name</svlname>
+            <svmail>supervisor@mail.com</svmail>
+            <svinst>Supervisor Institution</svinst>
+        </supervisor>
+        <cosupervisor>
+            <cosvfname>Co-Supervisor First Name</cosvfname>
+            <cosvlname>Co-Supervisor Last Name</cosvlname>
+            <cosvmail>cosupervisor@mail.com</cosvmail>
+            <cosvinst>Co-Supervisor Institution</cosvinst>
+        </cosupervisor>
+    </form>
+    <form>
+        <firstAuthor apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </firstAuthor>
+        <authors apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </authors>
+        <title>Sample Title</title>
+        <abstracts>Sample Abstract</abstracts>
+        <keywords>Sample Keywords</keywords>
+        <disciplines>Sample Disciplines</disciplines>
+        <speciality>Sample Speciality</speciality>
+        <theme>Theme 8</theme>
+        <institution>Sample Institution</institution>
+        <structure type="Sample Structure Type">Sample Structure Value</structure>
+        <mails>
+            <mail type="Sample Mail Type">sample@mail.com</mail>
+        </mails>
+        <phone>1234567890</phone>
+        <address>Sample Address</address>
+        <ville>Sample City</ville>
+        <supervisor>
+            <svfname>Supervisor First Name</svfname>
+            <svlname>Supervisor Last Name</svlname>
+            <svmail>supervisor@mail.com</svmail>
+            <svinst>Supervisor Institution</svinst>
+        </supervisor>
+        <cosupervisor>
+            <cosvfname>Co-Supervisor First Name</cosvfname>
+            <cosvlname>Co-Supervisor Last Name</cosvlname>
+            <cosvmail>cosupervisor@mail.com</cosvmail>
+            <cosvinst>Co-Supervisor Institution</cosvinst>
+        </cosupervisor>
+    </form>
+    <form>
+        <firstAuthor apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </firstAuthor>
+        <authors apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </authors>
+        <title>Sample Title</title>
+        <abstracts>Sample Abstract</abstracts>
+        <keywords>Sample Keywords</keywords>
+        <disciplines>Sample Disciplines</disciplines>
+        <speciality>Sample Speciality</speciality>
+        <theme>Theme 3</theme>
+        <institution>Sample Institution</institution>
+        <structure type="Sample Structure Type">Sample Structure Value</structure>
+        <mails>
+            <mail type="Sample Mail Type">sample@mail.com</mail>
+        </mails>
+        <phone>1234567890</phone>
+        <address>Sample Address</address>
+        <ville>Sample City</ville>
+        <supervisor>
+            <svfname>Supervisor First Name</svfname>
+            <svlname>Supervisor Last Name</svlname>
+            <svmail>supervisor@mail.com</svmail>
+            <svinst>Supervisor Institution</svinst>
+        </supervisor>
+        <cosupervisor>
+            <cosvfname>Co-Supervisor First Name</cosvfname>
+            <cosvlname>Co-Supervisor Last Name</cosvlname>
+            <cosvmail>cosupervisor@mail.com</cosvmail>
+            <cosvinst>Co-Supervisor Institution</cosvinst>
+        </cosupervisor>
+    </form>
+    <form>
+        <firstAuthor apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </firstAuthor>
+        <authors apogeCode="Sample ApogeCode" sex="Sample Sex" registrationYear="2022">
+            <firstname>Author First Name</firstname>
+            <lastName>Author Last Name</lastName>
+            <birth>1990-01-01</birth>
+        </authors>
+        <title>Sample Title</title>
+        <abstracts>Sample Abstract</abstracts>
+        <keywords>Sample Keywords</keywords>
+        <disciplines>Sample Disciplines</disciplines>
+        <speciality>Sample Speciality</speciality>
+        <theme>Theme 1</theme>
+        <institution>Sample Institution</institution>
+        <structure type="Sample Structure Type">Sample Structure Value</structure>
+        <mails>
+            <mail type="Sample Mail Type">sample@mail.com</mail>
+        </mails>
+        <phone>1234567890</phone>
+        <address>Sample Address</address>
+        <ville>Sample City</ville>
+        <supervisor>
+            <svfname>Supervisor First Name</svfname>
+            <svlname>Supervisor Last Name</svlname>
+            <svmail>supervisor@mail.com</svmail>
+            <svinst>Supervisor Institution</svinst>
+        </supervisor>
+        <cosupervisor>
+            <cosvfname>Co-Supervisor First Name</cosvfname>
+            <cosvlname>Co-Supervisor Last Name</cosvlname>
+            <cosvmail>cosupervisor@mail.com</cosvmail>
+            <cosvinst>Co-Supervisor Institution</cosvinst>
         </cosupervisor>
     </form>
     <form>
@@ -318,139 +357,7 @@
         <institution>FS</institution>
         <structure type="LFI"></structure>
         <mails>
-            <mail type="institutionnel">user1@um5.ac.ma</mail>
-        </mails>
-        <phone></phone>
-        <address></address>
-        <ville></ville>
-        <supervisor>
-            <svfname></svfname>
-            <svlname></svlname>
-            <svmail></svmail>
-            <svinst></svinst>
-        </supervisor>
-        <cosupervisor>
-            <cosvfname></cosvfname>
-            <cosvlname></cosvlname>
-            <cosvmail></cosvmail>
-            <cosvinst></cosvinst>
-        </cosupervisor>
-    </form>
-    <form>
-        <firstAuthor apogeCode="" sex="Homme" registrationYear="2024">
-            <firstname></firstname>
-            <lastName></lastName>
-            <birth></birth>
-        </firstAuthor>
-        <title></title>
-        <abstracts></abstracts>
-        <keywords></keywords>
-        <disciplines>info</disciplines>
-        <speciality></speciality>
-        <theme>theme1</theme>
-        <institution>FS</institution>
-        <structure type="LFI"></structure>
-        <mails>
-            <mail type="institutionnel">user1@um5.ac.ma</mail>
-        </mails>
-        <phone></phone>
-        <address></address>
-        <ville></ville>
-        <supervisor>
-            <svfname></svfname>
-            <svlname></svlname>
-            <svmail></svmail>
-            <svinst></svinst>
-        </supervisor>
-        <cosupervisor>
-            <cosvfname></cosvfname>
-            <cosvlname></cosvlname>
-            <cosvmail></cosvmail>
-            <cosvinst></cosvinst>
-        </cosupervisor>
-    </form>
-    <form>
-        <firstAuthor apogeCode="" sex="Homme" registrationYear="2024">
-            <firstname></firstname>
-            <lastName></lastName>
-            <birth></birth>
-        </firstAuthor>
-        <title></title>
-        <abstracts></abstracts>
-        <keywords></keywords>
-        <disciplines>info</disciplines>
-        <speciality></speciality>
-        <theme>theme1</theme>
-        <institution>FS</institution>
-        <structure type="LFI"></structure>
-        <mails>
-            <mail type="institutionnel">user1@um5.ac.ma</mail>
-        </mails>
-        <phone></phone>
-        <address></address>
-        <ville></ville>
-        <supervisor>
-            <svfname></svfname>
-            <svlname></svlname>
-            <svmail></svmail>
-            <svinst></svinst>
-        </supervisor>
-        <cosupervisor>
-            <cosvfname></cosvfname>
-            <cosvlname></cosvlname>
-            <cosvmail></cosvmail>
-            <cosvinst></cosvinst>
-        </cosupervisor>
-    </form>
-    <form>
-        <firstAuthor apogeCode="" sex="Homme" registrationYear="2024">
-            <firstname></firstname>
-            <lastName></lastName>
-            <birth></birth>
-        </firstAuthor>
-        <title></title>
-        <abstracts></abstracts>
-        <keywords></keywords>
-        <disciplines>info</disciplines>
-        <speciality></speciality>
-        <theme>theme1</theme>
-        <institution>FS</institution>
-        <structure type="LFI"></structure>
-        <mails>
-            <mail type="institutionnel">user1@um5.ac.ma</mail>
-        </mails>
-        <phone></phone>
-        <address></address>
-        <ville></ville>
-        <supervisor>
-            <svfname></svfname>
-            <svlname></svlname>
-            <svmail></svmail>
-            <svinst></svinst>
-        </supervisor>
-        <cosupervisor>
-            <cosvfname></cosvfname>
-            <cosvlname></cosvlname>
-            <cosvmail></cosvmail>
-            <cosvinst></cosvinst>
-        </cosupervisor>
-    </form>
-    <form>
-        <firstAuthor apogeCode="" sex="Homme" registrationYear="2024">
-            <firstname></firstname>
-            <lastName></lastName>
-            <birth></birth>
-        </firstAuthor>
-        <title></title>
-        <abstracts></abstracts>
-        <keywords></keywords>
-        <disciplines>info</disciplines>
-        <speciality></speciality>
-        <theme>theme1</theme>
-        <institution>FS</institution>
-        <structure type="LFI"></structure>
-        <mails>
-            <mail type="institutionnel">user1@um5.ac.ma</mail>
+            <mail type="institutionnel">user1@gamil.com</mail>
         </mails>
         <phone></phone>
         <address></address>

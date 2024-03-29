@@ -1,0 +1,58 @@
+
+        \documentclass{article}
+        \usepackage{multicol} % for creating multiple columns
+
+
+        \newlength{\colwidth}
+        \setlength{\colwidth}{\dimexpr 0.5\textwidth - 0.5\columnsep \relax}
+
+        \newcommand{\person}[4]{%
+        \begin{minipage}{\colwidth}%
+        \section*{#1} % Title
+        \subsection*{#2} % Name
+        \subsection*{#3} % Email (bold)
+        \parbox{\linewidth}{#4} % Abstract
+        \end{minipage}%
+        \vspace{1cm}%
+        \hrule
+        \vspace{1cm}%
+        }
+
+        \begin{document}
+        \begin{multicols}{2}
+        
+
+        \person{Sample Title}{Author First Name  \hspace{1mm}Author Last Name}{sample@mail.com \\ sample@mail.com}{Sample Abstract}
+    
+
+        \person{Sample Title}{Author First Name  \hspace{1mm}Author Last Name}{sample@mail.com \\ sample@mail.com}{Sample Abstract}
+    
+
+        \person{Sample Title}{Author First Name  \hspace{1mm}Author Last Name}{sample@mail.com \\ sample@mail.com}{Sample Abstract}
+    
+
+        \person{Sample Title}{Author First Name  \hspace{1mm}Author Last Name}{sample@mail.com \\ sample@mail.com}{Sample Abstract}
+    
+
+        \person{Sample Title}{Author First Name  \hspace{1mm}Author Last Name}{sample@mail.com \\ sample@mail.com}{Sample Abstract}
+    
+
+        \person{Sample Title}{Author First Name  \hspace{1mm}Author Last Name}{sample@mail.com \\ sample@mail.com}{Sample Abstract}
+    
+
+        \person{Sample Title}{Author First Name  \hspace{1mm}Author Last Name}{sample@mail.com \\ sample@mail.com}{Sample Abstract}
+    
+
+        \person{Sample Title}{Author First Name  \hspace{1mm}Author Last Name}{sample@mail.com \\ sample@mail.com}{Sample Abstract}
+    
+
+        \person{Sample Title}{Author First Name  \hspace{1mm}Author Last Name}{sample@mail.com \\ sample@mail.com}{Sample Abstract}
+    
+
+        \person{}{  \hspace{1mm}}{user1@gamil.com \\ user1@gamil.com}{}
+    
+
+        \end{multicols}
+        \end{document}
+
+    

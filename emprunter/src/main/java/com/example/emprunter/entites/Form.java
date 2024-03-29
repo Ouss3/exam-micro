@@ -35,7 +35,7 @@ public class Form {
     public Structure structure;
     @XmlElementWrapper(name="mails")
     @XmlElement(name="mail")
-    public ArrayList<Mail>  mails;
+    public ArrayList<Mail>  mails = new ArrayList<Mail>();
     @XmlElement
     public String phone;
     @XmlElement
